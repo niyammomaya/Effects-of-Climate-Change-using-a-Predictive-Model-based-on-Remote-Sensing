@@ -10,3 +10,5 @@ If climate change is not monitored effectively then it would lead us to a seriou
 
 Future scenarios that are affected by climate change are not inevitable. We already know a multitude of issues and solutions, and continuing research on these impacts keeps generating new ideas.
 
+We are using SARIMA model to predict a few climate parameters such as Land Surface Temperature (LST), Carbon Monoxide (CO) Concentration and Precipitation.
+
