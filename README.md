@@ -13,3 +13,5 @@ Future scenarios that are affected by climate change are not inevitable. We alre
 We are using SARIMA model to predict a few climate parameters such as Land Surface Temperature (LST), Carbon Monoxide (CO) Concentration and Precipitation.
 
 The google earth engine repository for the datasets and climate aparameters can be accessed here: https://code.earthengine.google.co.in/?accept_repo=users/niyammomaya/capstone
+
+For more information on results and methodology, the paper can be referred: https://ieeexplore.ieee.org/document/10087637
